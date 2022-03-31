@@ -1,1 +1,3 @@
-2+2
+# This program prints Hello, world!
+
+print('Hello, world!')
